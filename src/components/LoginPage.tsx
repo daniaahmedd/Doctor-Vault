@@ -1,1 +1,1 @@
-import React from 'react'; export const LoginPage = () => { return ( Login Email   Password  Login ); };
+import React from 'react';
